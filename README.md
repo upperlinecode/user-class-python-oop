@@ -1,5 +1,7 @@
 # Create a User class
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/user-class-python-oop)](https://repl.it/github/upperlinecode/user-class-python-oop)
+
 ### The backbone of social media
 
 Almost any social media platform will rely on objects - they allow the program to run in the ways we humans think about the program. 
