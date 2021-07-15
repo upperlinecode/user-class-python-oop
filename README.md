@@ -30,10 +30,10 @@ Here's what you ought to be able to do with your user class:
 
 1. Initialize new instances of the user class, starting each user with at least a name, an email, a password, and an age. Think about what information Facebook asks for when you create an account:
 
-<img src="images/signup.png" width="200" height="300"/>
+<img src="https://raw.githubusercontent.com/upperlinecode/user-class-python-oop/main/images/signup.png" width="200" height="300"/>
 
 2. Create a default argument for age, so that a user can still create an account even if they don't wish to share their age. (The minimum age for most social media sites is 13).
 3. Write a method called `status_update` that prints out how the user is feeling, based on their mood.
 4. Write a method called `change_password` that takes two arguments - the old password and the new password. It should change the user's password ONLY if the attempt at the old password matches the existing password for that user. If the old password doesn't match, it should print out an error. Think about how you might change your password on Facebook:
 
-<img src="images/changepassword.png" width="400" height="200"/>
+<img src="https://raw.githubusercontent.com/upperlinecode/user-class-python-oop/main/images/changepassword.png" width="400" height="200"/>
